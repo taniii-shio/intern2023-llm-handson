@@ -1,0 +1,8 @@
+# .env
+.env
+
+# 永続領域
+index/*
+!index/.gitkeep
+pdf/*
+!pdf/.gitkeep
