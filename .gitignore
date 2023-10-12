@@ -4,5 +4,5 @@
 # 永続領域
 index/*
 !index/.gitkeep
-pdf/*
+# pdf/*
 !pdf/.gitkeep
